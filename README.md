@@ -43,3 +43,5 @@ The repository includes serialized trained models:
 - Feature Scaler
 
 These can be directly loaded for inference and deployment.
+
+This project was proposed and developed as part of GSSoC 2026 contributions under the ML-CaPsule repository.
